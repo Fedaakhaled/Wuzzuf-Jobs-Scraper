@@ -1,4 +1,4 @@
-# Wuzzuf-Jobs-Scraper
+# Wuzzuf-Jobs-Scraping
 This Jupyter Notebook contains a Python script that scrapes job listings from Wuzzuf.net for "Data Analyst" positions in Egypt. The script extracts key job information and saves it to a CSV file for analysis.
 
 Features:
